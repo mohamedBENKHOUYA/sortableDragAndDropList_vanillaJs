@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background: #333;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.draggable {
+    background: #fff;
+    padding: 1rem;
+    margin-top: 1rem;
+    border: 1px solid #000;
+    cursor: move;
+}
+
+.dragging {
+    /* background: linear-gradient(to right, rgb(172, 164, 164), rgba(150, 141, 141, 0.1)); */
+    opacity: 
+}
